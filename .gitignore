@@ -1,0 +1,20 @@
+# Build and test artifacts
+/bin/
+/dist/
+*.exe
+*.test
+*.out
+coverage.out
+*.prof
+*.pprof
+
+# Dependency/vendor output
+/vendor/
+
+# Local editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Local benchmark scratch output
+internal/integration/profiles/
