@@ -72,7 +72,9 @@ choose the logical region. Deployments with a real topology should provide their
 own `regionresolver.Resolver`.
 
 See [docs/architecture.md](docs/architecture.md) for the public architecture
-notes and invariants.
+notes and invariants. Markdown manuals are also available:
+[technical manual](docs/technical-manual.md) and
+[user manual](docs/user-manual.md).
 
 ## Limits
 
