@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "GeoTruth"
+authors:
+  - alias: "midtxwn"
+version: "1.0.0"
+date-released: 2026-06-30
+url: "https://github.com/midtxwn/geotruth"
+repository-code: "https://github.com/midtxwn/geotruth"
+license: "Apache-2.0"
+abstract: "GeoTruth is a Go spatial tracking service for local Cartesian environments that tracks object state, detects polygonal area transitions, answers spatial queries, and persists recoverable spatial events with NATS JetStream."
+keywords:
+  - spatial-tracking
+  - geofencing
+  - nats
+  - jetstream
+  - go
